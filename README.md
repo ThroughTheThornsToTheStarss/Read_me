@@ -3,7 +3,7 @@
 Контакты: @ilshat_nasertdinv (Telegram)</br>
 Занятость: full time
 ㅡ
-**Умения и достижения**
+##Умения и достижения
 ●	Go, Python
 ●	Git, Algorithms, HTTP, SQL
 ●	Призер олимпиады Физтех по физике
