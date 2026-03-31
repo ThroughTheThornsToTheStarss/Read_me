@@ -1,8 +1,9 @@
 # НАСЕРТДИНОВ ИЛЬШАТ
 
-**Go Backend Developer · Стажировка**
+**Go Backend Developer **
 
 Москва · [ilshat.nas@mail.ru](mailto:ilshat.nas@mail.ru) · +79870673766 · Telegram: [@nasertdinov_ilshat](https://t.me/nasertdinov_ilshat)
+
 [github.com/ThroughTheThornsToTheStarss](https://github.com/ThroughTheThornsToTheStarss)
 
 ---
